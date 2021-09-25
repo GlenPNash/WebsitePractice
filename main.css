@@ -9,48 +9,8 @@ body {
   font-family: lato;
 }
 
-h1 {
-  font-weight: normal;
-  font-size: 40px;
-  font-weight: normal;
-  text-transform: uppercase;
-  padding: 55px 30px;
-}
-
-h1 span{
-    font-size: 13px;
-    display: block;
-    padding-left: 4px;
-}
-
-p {
-  display: block;
-  float: left;
-  font-size: 20px;
-}
-
-html, 
-body {
-	height: 100%;
-}
-
-.wrapper {
-	min-height: 100%;
-	height: auto !important;
-	height: 100%;
-	margin: 0 auto -200px;
-}
-
-.sticky {
-	height: 200px;
-}
-
 footer {
   background-color: #303030;
 	height: 10%;
   color:white;
 }
-
-  footer h1 { 
-    padding-top: 20px!important;
-  }
