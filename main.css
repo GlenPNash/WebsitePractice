@@ -3,13 +3,10 @@
 * {
   margin: 0; 
   padding: 0;
-  text-align: center;
-}
+ }
 
 body {
   font-family: lato;
-  color: #005187;
-  background: white;
 }
 
 h1 {
@@ -49,8 +46,8 @@ body {
 }
 
 footer {
-  background-color: #005187;
-	height: 200px;
+  background-color: #303030;
+	height: 10%;
   color:white;
 }
 
