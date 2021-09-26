@@ -27,13 +27,16 @@ background: black;
 nav a{
   float:right;
   display:block;
-  padding:1em;
   color:#ffffff;
   text-decoration: none;
 }
 
 nav a:hover{
   color:slategray;
+}
+
+nav li{
+  padding:1em;
 }
 
 body {
