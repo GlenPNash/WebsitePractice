@@ -19,3 +19,8 @@ footer {position:fixed; bottom:0; left:0; height:15%; width: 100%; background: b
     font-size: large;
     font-family: lato;
   }
+
+iframe {
+  margin: 1rem;
+
+}
