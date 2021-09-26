@@ -9,7 +9,7 @@ body {
   font-family: lato;
 }
 
-footer {position:fixed; bottom:0; left:0; height:35%; width: 100%; background: black; }
+footer {position:fixed; bottom:0; left:0; height:25%; width: 100%; background: black; }
 
 iframe {
   margin: 1rem; display:inline-block; width:20%;
