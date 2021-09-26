@@ -5,11 +5,13 @@
   padding: 0;
  }
 
-body {
-  font-family: lato;
+ body {
+  position: relative;
+  margin: 0;
+  padding-bottom: 6rem;
+  min-height: 100%;
+  font-family: "Helvetica Neue", Arial, sans-serif;
 }
-
-footer {position:fixed; margin-left:auto; margin-right:auto; height:fit-content; width: 100%; }
 
 iframe {
   margin: 1rem; display:inline-block; width:20%;
@@ -24,16 +26,12 @@ p.text-center{
   text-align: center;
 }
 
-.container{
-  padding-left: 15px;
-  padding-right: 15px;
-  margin-right: auto;
-  margin-left: auto;
-}
-
-.subfooter{
-
-  border-top: 1px solid ;
-  border-bottom: 1px solid;
-  padding: 40px 0;
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
 }
