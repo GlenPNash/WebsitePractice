@@ -69,3 +69,8 @@ p.text-center{
   background-color: #efefef;
   text-align: center;
 }
+
+div.content{
+  padding-left:2em;
+
+}
