@@ -9,8 +9,6 @@ body {
   font-family: lato;
 }
 
-footer {position:fixed; bottom:0; left:0; height:25%; width: 100%; background: black; }
-
 iframe {
   margin: 1rem; display:inline-block; width:20%;
 
@@ -22,4 +20,18 @@ footer h1{
 
 p.text-center{
   text-align: center;
+}
+
+.container{
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.subfooter{
+  background-color: darkslategray;
+  border-top: 1px solid darkslategray;
+  border-bottom: 1px solid darkslategray;
+  padding: 40px 0;
 }
