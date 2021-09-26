@@ -19,3 +19,7 @@ iframe {
 footer h1{
   display: inline-block;
 }
+
+p.text-center{
+  text-align: center;
+}
