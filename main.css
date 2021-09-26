@@ -16,7 +16,15 @@ html {
   box-sizing: inherit;
 }
 
- body {
+nav{
+position: fixed;
+top: 0;
+display: block;
+width: 100%;
+background: black;
+}
+
+body {
   position: relative;
   margin: 0;
   padding-bottom: 6rem;
