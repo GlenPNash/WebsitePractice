@@ -72,5 +72,8 @@ p.text-center{
 
 div.content{
   padding-left:2em;
-
+}
+iframe.content{
+  padding-left: 1em;
+  border: 1px solid black;
 }
